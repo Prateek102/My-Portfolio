@@ -25,7 +25,7 @@ import image from "../assets/company/southpoint.png"; // replace with your actua
 import clg from "../assets/company/mait.png";
 import delta from "../assets/company/apna.png";
 import Edufever from "../assets/company/edu.png";
-import Mysqldb from "../assets/tech/mySql.png";
+import Mysqldb from "../assets/tech/mysql.png";
 import threeJs from "../assets/tech/threejs.png";
 import Bootstrap from "../assets/tech/bootstrap.png";
 import cpp from "../assets/tech/Cpp.png";
