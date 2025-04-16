@@ -29,9 +29,9 @@ import Mysqldb from "../assets/tech/mySql.png";
 import threeJs from "../assets/tech/threejs.png";
 import Bootstrap from "../assets/tech/bootstrap.png";
 import cpp from "../assets/tech/Cpp.png";
-import wander from "../assets/tech/Wanderlust.png";
 import Tube from "../assets/tech/Youtube.png";
 import Spotify from "../assets/tech/Spotify_img.png";
+import wanderlustImg from '../assets/tech/wanderlust.png';
 
 
 
@@ -229,7 +229,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: wander,
+    image: wanderlustImg ,
     source_code_link: "https://github.com/Prateek102/Wanderlust-Major-Project",
   },
   {
